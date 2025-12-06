@@ -21,9 +21,9 @@ A lightweight single-page To-Do application that is:
 
 
 ## **📁 Project Structure**
-TO-DO_List/
-├─ index.html # Main HTML file
-├─ style.css # Styling (responsive + modern)
-├─ script.js # App logic (localStorage, rendering, events)
-└─ README.md # You are here
+TO-DO_List/<br>
+├─ index.html # Main HTML file<br>
+├─ style.css # Styling (responsive + modern)<br>
+├─ script.js # App logic (localStorage, rendering, events)<br>
+└─ README.md # You are here<br>
 
